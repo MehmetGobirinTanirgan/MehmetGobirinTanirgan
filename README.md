@@ -1,5 +1,5 @@
 ### Hi there, I’m Mehmet Gobirin 👋
-## I'm a Software Lover and Developer!
+## I'm a Software Lover!
 
 - 👀 I’m interested in back-end and front-end technologies.
 - 🌱 I’m currently learning ASP .NET Core techs. After that I'm gonna move on to learn the other techs until I got the 'Senior Full-Stack Developer' title. 
@@ -37,7 +37,6 @@
 ### 💻 OS & Workspace Spec:
 <img src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />&nbsp;
 <img src = "https://img.shields.io/badge/AMD-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />&nbsp;
-
 
 
 
