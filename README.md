@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning ASP .NET Core techs. After that I'm gonna move on to learn the other techs until I got the 'Senior Full-Stack Developer' title. 
 - 💞️ I’m looking to collaborate on with the other developers.
 
-### 📫 How to reache me:
+### 📫 How to reach me:
 [<img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mehmet-gobirin-tanirgan) &nbsp;
 [<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=mehmet.g.tanirgan@gmail.com) &nbsp;
 [<img src = "https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />](https://www.hackerrank.com/mehmetgtanirgan) &nbsp;
