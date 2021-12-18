@@ -2,7 +2,7 @@
 ## I'm a Software Lover!
 
 - 👀 I’m interested in back-end and front-end technologies.
-- 🌱 I’m currently learning .NET Core. After that I'm gonna move on to learn the other techs until I got the 'Senior Full-Stack Developer' title. 
+- 🌱 I’m currently learning <b>.NET Core, Angular</b>. After that I'm gonna move on to learn the other techs until I got the 'Senior Full-Stack Developer' title. 
 - 💞️ I’m looking to collaborate on with the other developers.
 
 ### 📫 How to reach me:
